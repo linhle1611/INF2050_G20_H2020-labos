@@ -17,7 +17,7 @@ Exercices
 ---------
 
 Pour ces exercices, utilisez les jar disponibles dans ce
-[répertoire](librairies/).
+[répertoire](Dépendances/).
 
 1. Écrivez un programme qui lit ce [document JSON](collection.json) et qui affiche à la
    console les informations suivantes :
@@ -25,6 +25,8 @@ Pour ces exercices, utilisez les jar disponibles dans ce
    * le nombre de singles;
    * la liste des albums publiés depuis 2003;
    * la liste des albums avec une note de 5.
+
+1. Étapes de réalisation :
 
    - Comment lire un fichier JSON?
    - Comment extraire un array JSON?
