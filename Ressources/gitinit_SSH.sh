@@ -2,7 +2,7 @@
 # Version utilisant la connexion type SSH
 # Attention! Modifiez username par votre utilisateur et token par le token généré via github
 # https://github.com/settings/tokens pour générer un token
-USER='<USER>'
+USER='MaxNicol'
 TOKEN='<TOKEN>'
 # Stocker le nom du répertoire courant dans une variable
 DEPOT=${PWD##*/}
