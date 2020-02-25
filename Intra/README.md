@@ -76,6 +76,6 @@
 
 1. Dans le cadre des tests unitaires, comment gérer la découverte d'un nouveau bogue dans le code source?
 
-1. Qu'est-ce qu'une assertion? Nommez en trois disponibles dans la librairie Junit 1.
+1. Qu'est-ce qu'une assertion? Nommez en trois disponibles dans la librairie Junit 5.
 
-1. Qu'est-ce qu'un tag? Nommez en trois disponibles dans la librairie Junit 1.
+1. Qu'est-ce qu'un tag? Nommez en trois disponibles dans la librairie Junit 5.
